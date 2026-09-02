@@ -8668,6 +8668,8 @@
 |assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-admire-005.asset|
 |assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-admire-006.asset|
 |assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-deploy.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-deploy-bolt-back.asset|
+|assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-deploy-bolt-forward.asset|
 |assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-dryfire.asset|
 |assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-gunshot-mech.asset|
 |assets/prefabs/weapons/ak47u/glass skin/sound/glass-ak-reload-bolt-back.asset|
